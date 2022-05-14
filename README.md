@@ -18,6 +18,20 @@
 <img src="https://camo.githubusercontent.com/65a49e24f09f6e5dd2315696cc37d7ba50947ddf5d22ff385f86d9dae4dc0bf6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3430343034303f7374796c653d666c6174266c6f676f3d7765627061636b" />
 <img src="https://camo.githubusercontent.com/5d20eb4adcbf2176df664235b9b618c39da48d7d820d0594ba207f7398399f98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d3430343034303f7374796c653d666c6174266c6f676f3d6669676d61" />
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B9l4eCJlaB)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B9l4eCJlaB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B9l4eCJlaB&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=B9l4eCJlaB&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=B9l4eCJlaB&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=B9l4eCJlaB&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=B9l4eCJlaB&theme=solarized_dark)
+
+
 <!--
 **B9l4eCJlaB/B9l4eCJlaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
