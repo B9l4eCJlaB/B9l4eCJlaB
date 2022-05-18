@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Vyacheslav
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
-<p>I have gone through a number of phases in my career, and each of them has informed my current work ethos and philosophy. I've excelled in a number of project management roles in diverse industries, and believe that my number one asset is my ability to adapt to any challenge that is thrown my way.</p>
+<p>Я прошел через несколько этапов в своей карьере, и каждый из них повлиял на мою нынешнюю рабочую этику и философию. Я преуспел в ряде ролей в различных отраслях и считаю, что мое главное достоинство - это моя способность адаптироваться к любым вызовам, которые встают на моем пути.</p>
 <hr></hr>
 <h3 align="center">Languages and Technologies:</h3>
 <div display="flex" align="center">
@@ -18,18 +18,13 @@
 <img src="https://camo.githubusercontent.com/65a49e24f09f6e5dd2315696cc37d7ba50947ddf5d22ff385f86d9dae4dc0bf6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3430343034303f7374796c653d666c6174266c6f676f3d7765627061636b" />
 <img src="https://camo.githubusercontent.com/5d20eb4adcbf2176df664235b9b618c39da48d7d820d0594ba207f7398399f98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d3430343034303f7374796c653d666c6174266c6f676f3d6669676d61" />
 </div>
+<h3 align="center">Contacts:</h3>
+<div align="center">
+<a href="https://t.me/Vyacheslav1812" rel="nofollow">
+<img src="https://camo.githubusercontent.com/094b19161ea320272d260765f5e0aa21457376cbe40bdf61af4850fb901c1b59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3430343034303f7374796c653d666c6174266c6f676f3d74656c656772616d">
+</a>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B9l4eCJlaB)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B9l4eCJlaB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B9l4eCJlaB&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=B9l4eCJlaB&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=B9l4eCJlaB&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=B9l4eCJlaB&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=B9l4eCJlaB&theme=solarized_dark)
 
 
 ![Metrics](https://metrics.lecoq.io/B9l4eCJlaB?template=classic&isocalendar=1&languages=1&repositories=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
